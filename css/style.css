@@ -3,3 +3,12 @@
     padding: 0px;
     font-family:'Lucida Sans';
 }
+
+#divgeral{
+    width: 550px;
+    min-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: aqua;
+    border-radius: 10px;
+}
