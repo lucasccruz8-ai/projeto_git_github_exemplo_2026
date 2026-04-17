@@ -9,7 +9,7 @@
     min-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background-color: aqua;
+    background-color: rgb(75, 120, 87);
     border-radius: 10px;
 }
 
@@ -22,9 +22,12 @@ ul li{
     margin: 0px 20px;;
 }
 
+hr{
+    margin: 20px 0px;
+}
 form{
     margin: 20px 0px;
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     padding: 15px;
     border-radius: 10px;
 }
